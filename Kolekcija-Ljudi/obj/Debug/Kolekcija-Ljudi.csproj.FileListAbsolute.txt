@@ -1,0 +1,11 @@
+C:\Users\SeBa\source\repos\Kolekcija-Ljudi\Kolekcija-Ljudi\bin\Debug\Kolekcija-Ljudi.exe.config
+C:\Users\SeBa\source\repos\Kolekcija-Ljudi\Kolekcija-Ljudi\bin\Debug\Kolekcija-Ljudi.exe
+C:\Users\SeBa\source\repos\Kolekcija-Ljudi\Kolekcija-Ljudi\bin\Debug\Kolekcija-Ljudi.pdb
+C:\Users\SeBa\source\repos\Kolekcija-Ljudi\Kolekcija-Ljudi\obj\Debug\Kolekcija-Ljudi.csproj.SuggestedBindingRedirects.cache
+C:\Users\SeBa\source\repos\Kolekcija-Ljudi\Kolekcija-Ljudi\obj\Debug\Kolekcija_Ljudi.Form1.resources
+C:\Users\SeBa\source\repos\Kolekcija-Ljudi\Kolekcija-Ljudi\obj\Debug\Kolekcija_Ljudi.Properties.Resources.resources
+C:\Users\SeBa\source\repos\Kolekcija-Ljudi\Kolekcija-Ljudi\obj\Debug\Kolekcija-Ljudi.csproj.GenerateResource.cache
+C:\Users\SeBa\source\repos\Kolekcija-Ljudi\Kolekcija-Ljudi\obj\Debug\Kolekcija-Ljudi.csproj.CoreCompileInputs.cache
+C:\Users\SeBa\source\repos\Kolekcija-Ljudi\Kolekcija-Ljudi\obj\Debug\Kolekcija-Ljudi.exe
+C:\Users\SeBa\source\repos\Kolekcija-Ljudi\Kolekcija-Ljudi\obj\Debug\Kolekcija-Ljudi.pdb
+C:\Users\SeBa\source\repos\Kolekcija-Ljudi\Kolekcija-Ljudi\obj\Debug\Kolekcija-Ljudi.csproj.AssemblyReference.cache
